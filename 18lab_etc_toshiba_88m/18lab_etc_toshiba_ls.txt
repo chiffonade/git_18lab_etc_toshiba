@@ -1,0 +1,16 @@
+180900PAML/
+180900PAML_dir250329hash.txt
+180900yn00/
+180900yn00_dir250329hash.txt
+181009notoginseng/
+181020PAML_Aquilegia/
+181021resequenceFQtoBamToVCFbwaPicardGATKsamtools/
+181026AcqVCFextract/
+181109ginsengDepthGene/
+181213PSMC/
+181217no02faAndVcf2allIndividualsUndefinedPathCmt.pl*
+181217no02faAndVcf2allIndividualsUndefinedPathCmt.plAbout.txt
+200100diploid2CS_Bsub/
+200414centumPanax/
+ginsengKR/
+ginsengKR_dir250330hash.txt
